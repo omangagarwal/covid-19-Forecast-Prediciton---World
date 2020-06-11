@@ -1,0 +1,2 @@
+# covid-19-Forecast-Prediciton---World
+The forecast of New corona cases worldwide will help in determining the magnitude of the coronavirus pandemic in the coming days, which will help the world goverments to embrace future challenges and prepare for it in order to make forecasts fail.  Daily death prediction will also help the world goverments to judge their health care system and the arrangements made to cure coronavirus affected people. This will lead the health care system to optimize better for future cases.
